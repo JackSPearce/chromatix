@@ -7,7 +7,7 @@ name = "chromatix"
 authors = [{name = "Chromatix Team"}]
 description = "Differentiable wave optics library using JAX"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.12"
 license = {text = "MIT"}
 dependencies = [
   "jax>=0.4.1",
